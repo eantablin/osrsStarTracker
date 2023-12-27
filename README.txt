@@ -1,4 +1,7 @@
-OSRS Star Tracker
+OSRS Star Tracker - DEPRECATED
+
+Project written to help friends locate stars. Deprecated after MVP finding an already built RuneLite extension.
+Now presented publicly in all it's glory for learning purposes.
 
 This application runs on an endless loop, scraping data every N seconds.
 
